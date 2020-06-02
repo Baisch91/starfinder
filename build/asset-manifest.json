@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/starfinder/static/css/main.634ac05c.chunk.css",
+    "main.js": "/starfinder/static/js/main.31d3fb44.chunk.js",
+    "main.js.map": "/starfinder/static/js/main.31d3fb44.chunk.js.map",
+    "runtime-main.js": "/starfinder/static/js/runtime-main.7956d615.js",
+    "runtime-main.js.map": "/starfinder/static/js/runtime-main.7956d615.js.map",
+    "static/js/2.b097e029.chunk.js": "/starfinder/static/js/2.b097e029.chunk.js",
+    "static/js/2.b097e029.chunk.js.map": "/starfinder/static/js/2.b097e029.chunk.js.map",
+    "index.html": "/starfinder/index.html",
+    "precache-manifest.22022f7a6acfe700eb3b43639b99cbdc.js": "/starfinder/precache-manifest.22022f7a6acfe700eb3b43639b99cbdc.js",
+    "service-worker.js": "/starfinder/service-worker.js",
+    "static/css/main.634ac05c.chunk.css.map": "/starfinder/static/css/main.634ac05c.chunk.css.map",
+    "static/js/2.b097e029.chunk.js.LICENSE.txt": "/starfinder/static/js/2.b097e029.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/starfinder/static/media/Starjedi.cc3019aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7956d615.js",
+    "static/js/2.b097e029.chunk.js",
+    "static/css/main.634ac05c.chunk.css",
+    "static/js/main.31d3fb44.chunk.js"
+  ]
+}
